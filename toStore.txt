@@ -11,6 +11,7 @@ http://gameprogrammingpatterns.com/
 https://github.com/miloyip/game-programmer/blob/master/game-programmer.jpg
 
 
+
 GameDesign
 http://info.sonicretro.org/Sonic_Physics_Guide
 http://www.significant-bits.com/super-mario-bros-3-level-design-lessons
